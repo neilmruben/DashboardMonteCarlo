@@ -1,6 +1,7 @@
 # DashboardMonteCarlo
 Applied Data Science project for finance 
 
+Lien vers le Streamlit : https://neilmruben-dashboardmontecarlo-apds-8b9tlc.streamlitapp.com/
 
 Ce streamlit permet de créer un portefeuille à partir d'une série de ticker, de visualiser la distribution des rendements du portefeuilles, la corrélation entre les actifs du portefeuille et de choisir le nombre de scénario à générer aléatoirement sur un nombre de jour à spéficier sur l'interface.
 
