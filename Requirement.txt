@@ -1,6 +1,2 @@
-from pyecharts.charts import Bar
-from pyecharts import options as opts
-import streamlit.components.v1 as components
-from pyecharts.charts import Bar
-from pyecharts import options as opts
+import matplotlib.pyplot as plt
 import streamlit.components.v1 as components
