@@ -1,6 +1,3 @@
 plotly
 scipy
 pandas
-Flask
-flask-cors
-pyforest
