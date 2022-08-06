@@ -1,5 +1,6 @@
-streamlit
+plotly
+scipy
 pandas
-matplotlib
-yfinance
-streamlit.components.v1 as components
+Flask
+flask-cors
+pyforest
