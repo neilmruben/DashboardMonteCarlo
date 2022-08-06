@@ -1,2 +1,5 @@
+streamlit
+pandas
+matplotlib
 yfinance
 streamlit.components.v1 as components
