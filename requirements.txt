@@ -1,3 +1,2 @@
-import matplotlib.pyplot
-import yfinance
-import streamlit.components.v1 as components
+yfinance
+streamlit.components.v1 as components
