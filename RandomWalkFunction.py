@@ -48,7 +48,7 @@ def PortfolioWeight(data):
 
         pondList.append (pondération)
 
-    if sum(pondList) > 100.05: # on tolère une marge de 5% (au cas où l'individu rentre une valeur proche mais différente de 100) 
+    if sum(pondList) > 100.05: # on tolère une marge (au cas où l'individu rentre une valeur proche mais différente de 100) 
         print("Erreur, rentrer un montant égal à 100 %, le total de votre portefeuille fait :",sum(pondList)," %")
         raise ValueError
     elif sum(pondList) < 99.95:
